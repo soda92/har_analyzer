@@ -11,6 +11,8 @@
 /resources
 *.har
 /har_analyzer
+firebase-debug.log
+docs/public
 
 # Test binary, built with `go test -c`
 *.test
