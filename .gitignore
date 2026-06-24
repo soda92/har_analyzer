@@ -8,6 +8,10 @@
 *.so
 *.dylib
 
+/resources
+*.har
+/har_analyzer
+
 # Test binary, built with `go test -c`
 *.test
 
